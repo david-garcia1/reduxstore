@@ -1,2 +1,2 @@
-# techquiz
-This is a quiz that will test your knowledge and help enhance your skills
+# Reduxstore
+This is a store that you will be able to add purchasable items, and customize to your liking.
