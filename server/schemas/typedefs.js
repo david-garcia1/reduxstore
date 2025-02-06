@@ -1,6 +1,6 @@
 const { gql } = require('apollo-server-express');
 
-const typeDefs = gql`
+const typedefs = gql`
   type Category {
     _id: ID
     name: String
@@ -57,4 +57,4 @@ const typeDefs = gql`
   }
 `;
 
-module.exports = typeDefs;
+module.exports = typedefs;
