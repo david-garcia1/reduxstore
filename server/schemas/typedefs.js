@@ -1,6 +1,6 @@
 const { gql } = require('apollo-server-express');
 
-const typedefs = gql`
+const typeDefs = gql`
   type Category {
     _id: ID
     name: String
