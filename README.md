@@ -1,5 +1,7 @@
 # ReduxStore
 
+Live URL: https://reduxstore-g8x6.onrender.com/
+
 ## Description
 An e-commerce web application where users can create an account, log in, browse items, add them to a cart, make purchases, and log out. The application ensures secure authentication using JWT and efficiently manages state with Redux.
 
