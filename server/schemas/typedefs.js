@@ -57,4 +57,4 @@ const typedefs = gql`
   }
 `;
 
-module.exports = typedefs;
+module.exports = typeDefs;
