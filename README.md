@@ -17,3 +17,8 @@ An e-commerce web application where users can create an account, log in, browse 
 - **Backend:** Node.js, Express, GraphQL (Apollo Server)
 - **Database:** MongoDB (Mongoose ORM)
 - **Authentication:** JSON Web Tokens (JWT)
+
+---
+
+# Screenshot
+![alt text](livescreenshot-1.png)
